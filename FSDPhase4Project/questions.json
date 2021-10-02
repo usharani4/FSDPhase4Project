@@ -1,0 +1,22 @@
+[
+    {"q":"What has to be broken before you can use it?","a":"A Stone","b":"A Piece of Jewellery","c":"An Egg","d":"Bone"},
+    {"q":"Who owns the highest amount of Wealth in India?","a":"Anil Ambani","b":"Mukesh Ambani","c":"Gautam Adani","d":"Ratan Tata"},
+    {"q":"Which country has Peacock as the National Bird","a":"India","b":"Cambodia","c":"Peru","d":"Cuba"},
+    {"q":"Identify the Famous Personality from the Entertainment Industry, in the given Picture <br><br><img height='200px' width='400px' src='https://static-koimoi.akamaized.net/wp-content/new-galleries/2021/08/akshay-kumar-on-why-films-with-sprinkle-of-patriotism-are-loved-so-much-001.webp'>","a":"Amitabh Bachchan","b":"Akshay Kumar","c":"Ajay Devgan","d":"Salman Khan"},
+    {"q":"What is said to be the best Policy?","a":"Divide and Rule","b":"Honesty","c":"Modesty","d":"Humbleness"},
+    {"q":"Which city is considered as the best planned city in India?","a":"Ahmedabad","b":"Bangalore","c":"Delhi","d":"Chandigarh"},
+    {"q":"What month of the year has 28 days?","a":"January","b":"December","c":"February","d":"All of Them"},
+    {"q":"A man dies of old age on his 25th birthday. How is this possible?","a":"He travelled through time","b":"He got Old very quickly","c":"He was born on 29th of February","d":"This is not Possible"},
+    {"q":"Which of these is the largest landlocked country in the world?","a":"Central African Republic","b":"Bolivia","c":"Kazakhstan","d":"Paraguay"},
+    {"q":"What is the Official Language of Mexico?","a":"Spanish","b":"Mexican","c":"English","d":"Hebrew"},
+    {"q":"What European country is divided into departments?","a":"Sweden","b":"France","c":"Germany","d":"Switzerland"},
+    {"q":"Which is the deepest ocean in the World?","a":"The Atlantic Ocean","b":"The Pacific Ocean","c":"The Indian Ocean","d":"The Artic Ocean"},
+    {"q":"What is black when it’s clean and white when it’s dirty?","a":"Clothes","b":"Chalkboard","c":"Table","d":"Floor"},
+    {"q":"What is the name of latest set of Sub-Atomic Particles found most recently as of 2021?","a":"Higgs Boson","b":"Leptons","c":"Gluon","d":"Quarks"},
+    {"q":"A can do a bit of work in 8 days, which B alone can do in 10 days in how long . In how long both cooperating can do it?","a":"40/9 days","b":"41/9 days","c":"42/9 days","d":"43/9 days"},
+    {"q":"You randomly draw a marble from a bag of marbles that contains 7 blue marbles, 2 green marbles, and 1 red marble.What is the Probability to <b>Not</b> draw a blue marble","a":"0.7","b":"0.3","c":"0.4","d":"0.6"},
+    {"q":"Identify the Person in the Audio <br><br><audio controls><source src='https://www.motherteresa.org/mtaudios/come%20o%20blessd_m.mp3'></audio>","a":"Margaret Thatcher","b":"Mother Teresa","c":"Marie Curie","d":"Helen Keller"},
+    {"q":"Identify the Famous Anime in the video<br><br><video width='320' height='240' controls><source src='https://raw.githack.com/saurabhkawatra/java_oops_phase1/master/01.%20Rebirth.mp4'></video>","a":"Death Note","b":"Naruto","c":"Dragon-BallZ","d":"Pokemon"},
+    {"q":"If 1st term in an Airthmetic Progression is 0, 2nd is 1, 3rd is 2. What is the N'th term in this Arithmetic Progression?","a":"n-2","b":"n-1","c":"n-4","d":"n+1"},
+    {"q":"What is the full form of CERN (European Council for Nuclear Research) ?","a":"Collaboration Européen Recherche Napoléon","b":"Centrale Européenne Radicale Nom","c":"Conseil Européen Pour La Recherche Nucléaire","d":"Cumulatif Européenne Recherche Nouveau"}
+]
